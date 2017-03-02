@@ -1,3 +1,6 @@
 
 DES(数据加密标准) 56bit key length (22小时可破解)
+
 3DES(三重数据加密标准) 56*1 56*2 56*3 key length
+
+AES(高级加密标准)
